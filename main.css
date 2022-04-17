@@ -40,7 +40,13 @@ background: white;
     width: 138px;
     font-size: 14px;
     cursor: pointer;
+    border-color: #27416d;
+    background-color: transparent;
+    transition: all 150ms ease-in-out;
 } 
+.bt1:hover {
+    box-shadow: 0 0 5px 0 #27416d inset, 0 0 5px 2px #27416d;
+}
 .bt2 {
     position: absolute;
     left: 1101px;
@@ -52,7 +58,13 @@ background: white;
     width: 168px;
     font-size: 14px;
     cursor: pointer;
+    border-color: #27416d;
+    background-color: transparent;
+    transition: all 150ms ease-in-out;
 } 
+.bt2:hover {
+    box-shadow: 0 0 5px 0 #27416d inset, 0 0 5px 2px #27416d;
+}
 .top i {
     font-size:18px;
 }
