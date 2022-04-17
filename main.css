@@ -29,8 +29,6 @@ background: white;
     border: none;
     height: 35px;
     border-radius: 5px;
-    
-    
 }
 .bt1 {
     position: absolute;
@@ -66,7 +64,6 @@ i {
     display: flex;
     width: 1204px;
     height: 300px;
-
 }
 .leftblock {
     display: flex;
@@ -132,7 +129,6 @@ h1 {
 .rightblock {
     display: block;
     justify-content: start;
-    
     padding-left: 31px;
 }
 .number {
@@ -151,7 +147,6 @@ h1 {
     line-height: 0.7;
     font-weight: 700;
     margin: 1.32rem auto 0 0;
-    
 }
 .annotation2 {
     position: absolute;
